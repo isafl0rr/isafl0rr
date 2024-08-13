@@ -11,6 +11,7 @@ isafl0rr/isafl0rr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 Because I want to study at eliti.. 
+
 I find the idea of learning more about programming very interesting,
 Information technology is even more essential for the performance of professions today
 and I have a great interest in working in this area in the future. when I found out about the vacancies at Eliti I already tried to find out more about it.
@@ -23,6 +24,7 @@ which makes everything more feasible.
 
 
 Porque quero estudar na eliti.. 
+
 Acho muito interessante a ideia de aprender mais sobre programação,
 A tecnologia da informação é ainda mais essencial para o desempenho das profissões hoje em dia
 e tenho um grande interesse em trabalhar nesta área no futuro. quando soube das vagas na Eliti já procurei saber mais sobre.
